@@ -1,2 +1,0 @@
-modèle événement → état → rendu. C'est 
-bouton.addEventListener('click', () => {} : c'est l'événement 'clic' sur le bouton qui va lancer ce qui aura été demandé
